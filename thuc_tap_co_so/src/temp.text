@@ -1,0 +1,16 @@
+                        <Grid container spacing={2} sx={{mt: 5, mb: 15}}>
+                            {listRecommendBook.map((book) => {
+                                return (
+                                    <Grid size={2.4}>
+                                        <IconButton>
+                                            <Paper className="Container_Single_Image_ProductView" >
+                                                <img src={book.URLImage} className="Image_ProductView" />
+                                                <p>{book.Title}</p>
+                                                <Rating value={book.AvgRating} precision={0.1} readOnly/>
+                                            </Paper>
+                                        </IconButton>
+                                    </Grid>
+                                );
+
+                            })}
+                        </Grid>

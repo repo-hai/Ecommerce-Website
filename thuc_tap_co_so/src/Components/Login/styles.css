@@ -1,0 +1,75 @@
+/*background color:  'radial-gradient(ellipse at 50% 50%, , hsl(0, 0%, 100%))'*/
+#login_main_container {
+	display: block;
+	background-color: beige;
+	padding: 40px 0px 80px 0px;
+	height: 100% !important;
+}
+
+#login_form_login {
+	display: block;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 10px;
+	padding: 10px;
+	padding-bottom: 20px;
+}
+
+#login_container_logo_shop {
+	margin-top: 10px;
+	margin-bottom: 40px;
+}
+
+#login_icon {
+	position: relative;
+	top: 4px;
+	margin-right: 5px;
+}
+
+#login_name_shop{
+	display: inline;
+}
+
+#login_title {
+	font-family: monospace;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+#login_title_input {
+	font-family: monospace;
+	font-size: 15px;
+	margin-top: 10px;
+	margin-bottom: 15px;
+}
+
+#login_wrapper_input {
+	display: inline-block;
+}
+
+#login_wrapper_all_input {
+	margin-left: 40px;
+}
+
+#login_input {
+	height: 8px;
+	width: 300px;
+}
+
+#login_wrapper_button {
+	position: relative;
+	right: 20px;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+#login_button_login {
+	width: 150px;
+}
+
+#login_wrapper_create_new_account {
+	margin-top: 30px;
+	text-align: center;
+}

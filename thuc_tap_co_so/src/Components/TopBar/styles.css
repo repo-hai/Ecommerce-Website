@@ -1,0 +1,50 @@
+#topbar {
+	border: burlywood solid 2px;
+}
+
+#topbar_banner{
+	height: 234px;
+	z-index: 10;
+}
+
+#topbar_store_icon {
+	position: relative;
+	bottom: 2px;
+	right: 3px;
+}
+
+#topbar_wraper_seach_tool{
+	border: black solid 1px;
+	width: 400px;
+	margin-left: 300px !important;
+}
+
+#topbar_search_icon {
+	margin-left: 10px;
+	position: relative;
+	top: 6px;
+}
+
+#topbar_search_input{
+	display: inline-block !important;
+	margin-left: 10px;
+}
+
+#topbar_navigate {
+	width: 400px;
+  	display: flex;
+  	justify-content: right;
+}
+
+#topbar_wrapper_notification_icon {
+	display: inline-block;
+}
+
+#topbar_avatar {
+	display: block;
+	position: relative;
+	top: -7px;
+	width: 40px !important;
+	height: 30px !important;
+}
+

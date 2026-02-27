@@ -1,0 +1,16 @@
+#find_book_wrapper{
+
+}
+
+#find_book_img {
+	max-width: 200px;
+	width: 200px;
+	height: 300px;
+	z-index: 10;
+}
+
+#find_book_container_img {
+	width: 100%;
+	min-height: 350px;
+	height: fit-content;
+}

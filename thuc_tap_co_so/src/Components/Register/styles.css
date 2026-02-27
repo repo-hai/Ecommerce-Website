@@ -1,0 +1,72 @@
+/*background color:  'radial-gradient(ellipse at 50% 50%, , hsl(0, 0%, 100%))'*/
+#register_main_container {
+	display: block;
+	background-color: beige;
+	padding: 40px 0px 80px 0px;
+	height: 100% !important;
+}
+
+#register_form_register {
+	display: block;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 10px;
+	padding: 10px;
+}
+
+#register_container_logo_shop {
+	margin-top: 10px;
+	margin-bottom: 30px;
+}
+
+#register_icon {
+	position: relative;
+	top: 4px;
+	margin-right: 5px;
+}
+
+#register_name_shop{
+	display: inline;
+}
+
+#register_title {
+	font-family: monospace;
+	font-size: 30px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+#register_wrapper_all_input {
+	margin-left: 40px;
+}
+
+#register_title_input {
+	font-family: monospace;
+	font-size: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#register_input {
+	height: 8px;
+	width: 300px;
+}
+
+#register_wrapper_button {
+	position: relative;
+	right: 20px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+#register_button_register {
+	width: 150px;
+}
+
+#register_wrapper_navigate_to_login {
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}

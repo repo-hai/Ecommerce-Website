@@ -1,0 +1,31 @@
+#home_wrapper_suggestion {
+	text-align: center;
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+.Label_Divider_ProductView {
+	display: inline-block;
+	width: 200px !important;
+	border: black solid 1px !important;
+	margin-right: 20px !important;
+	margin-left: 20px !important;
+}
+
+.Label_ProductView {
+	display: inline;
+	color: hsl(270, 100%, 50%) !important;
+	font-weight: bold !important;
+	font-family: sans-serif !important;
+	font-size: 30px !important;
+}
+
+#recommend_image {
+	max-width: 200px;
+
+}
+
+#wrapper_recommend_book {
+	height: 600px !important;
+	min-height: 600px !important;
+}

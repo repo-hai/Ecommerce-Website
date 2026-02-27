@@ -1,0 +1,13 @@
+#book_of_author_wrapper {
+	height: 500px;
+	margin: 10px;
+}
+
+#book_of_author_container_img{
+	height: 500px;
+	background-color: beige;
+}
+
+#book_of_author_img {
+	width: 200px;
+}

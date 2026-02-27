@@ -1,0 +1,23 @@
+#payment_wrapper {
+	position: fixed !important;
+	top: 200px !important;
+	left: 200px !important;
+	text-align: center;
+	z-index: 10;
+	border: black solid 3px;
+}
+
+#payment_paper_wrapper {
+	padding: 15px;
+	background-color: beige !important;
+}
+
+#payment_button_and_totalcost {
+	margin-top: 40px;
+  	display: flex;
+  	justify-content: right;
+}
+
+#payment_container_totalcost {
+	margin-right: 80px;
+}

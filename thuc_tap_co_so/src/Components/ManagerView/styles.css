@@ -1,0 +1,97 @@
+#managerview_wrapper_search {
+	border: black solid 2px;
+	width: 300px;
+	position: relative;
+	left: 125px;
+	bottom: 20px;
+}
+
+#managerview_search_icon {
+	position: relative;
+	top: 6px;
+	right: 20px;
+}
+
+
+.Footer_ProductView {
+	background-color: rgb(245, 245, 245);
+	width: 100% !important;
+	margin: 0px 0px 0px 0px !important;
+	padding: 0px;
+	max-width: 100% !important;
+}
+
+.Company_Information {
+	text-align: center !important;
+	margin-top: 30px !important;
+}
+
+.Policy {
+	display: inline !important;
+	font-family: sans-serif !important;
+}
+
+.Policy_Divider {
+	display: inline !important;
+	padding: 0px 10px 0px 10px;
+}
+
+.Container_Policy {
+	text-align: center;
+	padding-top: 20px !important;
+}
+
+.About_Company {
+	margin: 10px;
+	padding: 5px;
+	font-size: 13px !important;
+	font-family: sans-serif;
+}
+
+.container_managerview {
+	text-align: center;
+	align-items: center;
+	align-content: center;
+}
+
+
+table {
+	border: black solid 1px;
+	width: 900px;
+	margin: 0px auto;
+}
+
+th {
+	height: 30px;
+	border-bottom: black solid 1px;
+	border-right: black solid 1px;
+}
+
+td {
+	text-align: center;
+	height: 30px;
+	border-bottom: black solid 1px;
+	border-right: black solid 1px;
+	border-left: black solid 1px;
+
+}
+
+.Search_Product_ManagerView {
+	border: blue solid 1px;
+	width: 300px !important;
+	height: 30px !important;
+	display: flex;
+	bottom: 20px;
+	left: 50px;
+}
+
+.Title_ManagerView {
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.Add_Book_ManagerView {
+	display: flex;
+	left: 370px;
+	top: 20px;
+}

@@ -1,0 +1,11 @@
+.Icon_Chat_ManagerView {
+	position: fixed !important;
+	width: 50px !important;
+	height: 60px !important;
+	border-radius: 50%;
+	padding: 10px;
+	color: white;
+	background-color: burlywood;
+	right: 20px !important;
+	bottom: 100px !important;
+}

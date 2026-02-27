@@ -1,0 +1,17 @@
+#confirm_delete_wrapper {
+	position: fixed;
+	top: 300px;
+	left: 600px;
+	padding: 15px;
+	color: coral;
+	border: black solid 1px;
+}
+
+#confirm_delete_button_cancel {
+	margin-right: 10px;
+	margin-top: 20px;
+}
+
+#confirm_delete_button_accept {
+	margin-top: 20px;
+}

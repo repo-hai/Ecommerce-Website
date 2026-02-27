@@ -1,0 +1,10 @@
+#recommend_container_img{
+	width: 250px;
+	background-color: beige;
+}
+
+#recommend_wrapper {
+	width: 200px;
+	height: 400px;
+	margin: 10px;
+}
